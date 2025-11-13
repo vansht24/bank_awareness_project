@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Keep your local environment variables secret
+.env
+
+# Keep your Google Cloud credentials secret
+google-credentials.json
